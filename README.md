@@ -1,7 +1,8 @@
 # fortune-jkrandosily
 **WARNING: this file contains things that are not suitable for younger audiences, include: strong language, sexual references, and severe brainrot**
 
-The worst quote packs in UNIX history
+The worst quote packs in UNIX history.
+
 Qoutes for the fortune program that adds various quotes that I found funny.
 
 ## Features
