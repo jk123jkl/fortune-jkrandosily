@@ -5,7 +5,6 @@ The worst quote pack in UNIX history, ever.
 
 This is for the fortune program that adds various quotes that I find funny. What it basically means is that it contains some of the stupidest craps possible. Only install this if you think it is funny (it is not).
 
-
 ## Features
 - Stupid Memes
 - Terrible Jokes
@@ -13,5 +12,7 @@ This is for the fortune program that adds various quotes that I find funny. What
 - and so much more (and worse)
 
 ## Here's how you install it
-Copy both `jkrandosilly` and `jkrandosilly.dat` into `/usr/share/fortune` and you're done! 
+You need to have `fortune` installed.
+Simply copy both `jkrandosilly` and `jkrandosilly.dat` into `/usr/share/fortune` and you're done!
+
 Enjoy. I hope.
