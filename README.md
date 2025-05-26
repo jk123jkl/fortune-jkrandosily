@@ -13,6 +13,7 @@ This is for the fortune program that adds various quotes that I find funny. What
 
 ## Here's how you install it
 You need to have `fortune` installed.
+
 Simply copy both `jkrandosilly` and `jkrandosilly.dat` into `/usr/share/fortune` and you're done!
 
 Enjoy. I hope.
